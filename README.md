@@ -1,5 +1,8 @@
 # SFtime
-Easily view your Salesforce organization's local time with this lightweight Chrome Extension. Ideal for admins, developers, and global teams, it fetches the org's time zone and displays a real-time clock. Simplify workflow alignment, manage schedules, and boost productivity with quick access to your org's time!
+Easily view your Salesforce organization's local time with this lightweight Chrome Extension. Ideal for admins, developers, and global teams, it fetches the org's time zone and displays a real-time clock. With quick access to your org's time, you can simplify workflow alignment, manage schedules, and boost productivity!
+
+![image](https://github.com/user-attachments/assets/1ff887ba-1b9a-4cc4-86b6-7c36178c787f)
+
 
 Title: Salesforce Org Time Zone Clock
 Description:
@@ -13,7 +16,7 @@ Admin Productivity:
 Salesforce administrators often work with scheduled jobs, workflows, and time-dependent automation. The extension provides quick access to the org’s time zone to verify schedules accurately.
 
 Sales Efficiency:
-By referencing the organisation's local time, sales teams working across regions can ensure they follow up with clients during the appropriate working hours.
+By referencing the organisation's local time, sales teams across regions can ensure they follow up with clients during the appropriate working hours.
 
 Developer Utility:
 Developers creating time-sensitive processes like triggers, scheduled Apex, or flows can reference the org time directly from their browser while coding or testing.
